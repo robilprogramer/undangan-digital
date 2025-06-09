@@ -7,7 +7,7 @@ const PregnancyInvitation = () => {
     husband: "Robil",
     wife: "Ila",
   });
-  const [eventDate, setEventDate] = useState("Jum'at, 3 November 2023");
+  const [eventDate, setEventDate] = useState("Kamis, 12 Juni 2025");
   const [kepada, setKepada] = useState("Bapak/Ibu/Saudara/i");
 
   useEffect(() => {
